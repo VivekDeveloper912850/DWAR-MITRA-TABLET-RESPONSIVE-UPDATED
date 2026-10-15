@@ -1,0 +1,67 @@
+{
+  "brandName": "DWAR MITRA",
+  "defaultLanguage": "en",
+  "welcomeShortcutCount": 9,
+  "languages": [
+    {
+      "code": "en",
+      "label": "English",
+      "badge": "A",
+      "locale": "en-IN"
+    },
+    {
+      "code": "hi",
+      "label": "हिंदी",
+      "badge": "अ",
+      "locale": "hi-IN"
+    }
+  ],
+  "text": {
+    "en": {
+      "logoAlt": "Indira Gandhi Institute of Medical Sciences, Patna",
+      "subtitle": "Hospital Information Help Desk",
+      "welcomeTitle": "Welcome to IGIMS Hospital",
+      "welcomeSubtitle": "Hello! How may I help you today?",
+      "welcomeInstruction": "Find your department, room or hospital service easily.",
+      "welcomeSpeech": "Welcome to IGIMS Hospital. Hello! How may I help you today? Select a department or click here to start.",
+      "playGreeting": "Play welcome message",
+      "languageLabel": "Select Language / भाषा चुनें",
+      "startButton": "Click Here to Start",
+      "orTapDepartment": "Or Select a Department",
+      "moreDepartments": "More Departments",
+      "findYourWay": "Find Your Way",
+      "tapDepartment": "Tap a department to get instant directions",
+      "faqTitle": "Frequently Asked Questions",
+      "faqSubtitle": "Tap a question to see the answer and get directions",
+      "answer": "Answer",
+      "listen": "Listen to Answer",
+      "speaking": "Speaking...",
+      "playAgain": "Play Again",
+      "back": "Back",
+      "voiceUnavailable": "Voice not available on this device"
+    },
+    "hi": {
+      "logoAlt": "इंदिरा गांधी आयुर्विज्ञान संस्थान, पटना",
+      "subtitle": "अस्पताल सूचना सहायता केंद्र",
+      "welcomeTitle": "IGIMS अस्पताल में आपका स्वागत है",
+      "welcomeSubtitle": "नमस्ते! आज मैं आपकी कैसे सहायता कर सकता हूँ?",
+      "welcomeInstruction": "अपना विभाग, कमरा या अस्पताल की सेवा आसानी से खोजें।",
+      "welcomeSpeech": "IGIMS अस्पताल में आपका स्वागत है। नमस्ते! आज मैं आपकी कैसे सहायता कर सकता हूँ? कृपया अपना विभाग चुनें या शुरू करने के लिए यहाँ क्लिक करें।",
+      "playGreeting": "स्वागत संदेश सुनें",
+      "languageLabel": "Select Language / भाषा चुनें",
+      "startButton": "शुरू करने के लिए यहाँ क्लिक करें",
+      "orTapDepartment": "या किसी विभाग को चुनें",
+      "moreDepartments": "अन्य विभाग",
+      "findYourWay": "अपना रास्ता खोजें",
+      "tapDepartment": "तुरंत दिशा-निर्देश पाने के लिए किसी विभाग पर टैप करें",
+      "faqTitle": "अक्सर पूछे जाने वाले प्रश्न",
+      "faqSubtitle": "उत्तर और दिशा-निर्देश देखने के लिए किसी प्रश्न पर टैप करें",
+      "answer": "उत्तर",
+      "listen": "उत्तर सुनें",
+      "speaking": "बोल रहा है...",
+      "playAgain": "दोबारा सुनें",
+      "back": "वापस",
+      "voiceUnavailable": "इस डिवाइस पर आवाज़ उपलब्ध नहीं है"
+    }
+  }
+}
